@@ -1,6 +1,19 @@
 .title{
     color: blue;
 }
+h3{
+    color: white;
+}
 *{
     font-family: "Libre Baskerville", serif;
+    background-color: black;
+}
+img{
+    border: 5px solid yellow;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
